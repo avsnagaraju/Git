@@ -1,0 +1,28 @@
+                       {
+	"details":{
+		"name":"Andhra Pradesh State Skill Development Corporation-APSSDC",
+		"age":"5 years",
+		"image":"jrntr1.jpg",
+		"courses":["Internship on Web Designing","Python Programming","Web Design using React","Machine Learning"]
+	},
+	"trainers":[
+		{
+			"name":"P.Kalyan Chakravarthi",
+			"experience":"5 Years",
+			"email":"kalyanchakravarthi.p@apssdc.in",
+			"phone":9999999999
+		},
+		{
+			"name":"SK.Badulla",
+			"experience":"5 Years",
+			"email":"skbadulla.p@apssdc.in",
+			"phone":9999999998
+		},
+		{
+			"name":"D.Sai Ram",
+			"experience":"5 Years",
+			"email":"sairamd.p@apssdc.in",
+			"phone":9999999997
+		}
+	]
+}
